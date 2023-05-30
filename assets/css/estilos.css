@@ -4,6 +4,11 @@ body {
   background-image:url(../img/nebulosa-transparente.png);
 }
 
+nav{
+  background: linear-gradient(180deg, #060213 41.67%, rgba(101, 0, 79, 0) 100%);
+height: 150px;
+
+}
 /* Hero Section */
 
 #Hero-Section {
@@ -18,7 +23,8 @@ header p  {
   
 }
 .img-1{
-  height: 200px;
+  height: 200px
+;
 }
 .img-1 img {
   height: 300px;
@@ -35,6 +41,10 @@ header p  {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+
+}
+.icon-2{
+  height: 5em;
 }
 
 /* Contacto */
