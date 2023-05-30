@@ -11,6 +11,21 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   background-position: left;
+
+}
+header p  {
+ font-weight: 600;
+  
+}
+.img-1{
+  height: 200px;
+}
+.img-1 img {
+  height: 300px;
+  margin: -5% 0% 1%
+  
+ 
+ ;
 }
 
 /* Mis trabajos */
