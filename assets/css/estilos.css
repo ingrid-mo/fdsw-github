@@ -40,14 +40,13 @@ header p  {
 #Mis-trabajos{
   background: rgba(255, 255, 255, 0.062);
   background-image: url(../img/Noise-Texture.png);
+  flex-wrap: nowrap;
   
 }
 
 #Mis-trabajos .image-top {
   height: 250px;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position: center;
+
 
 }
 
@@ -83,6 +82,9 @@ footer{
 
   .navbar-brand{
     width: 100px;
+  }
+  .container {
+    width: 18rem;
   }
 
 }
